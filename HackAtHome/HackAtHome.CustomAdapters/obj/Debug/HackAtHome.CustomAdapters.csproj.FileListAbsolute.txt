@@ -1,0 +1,15 @@
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\HackAtHome.CustomAdapters.csprojResolveAssemblyReference.cache
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters.dll
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters.pdb
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters.apk
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters-Signed.apk
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.Entities.dll
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.Entities.pdb
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.Entities.dll.mdb
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\HackAtHome.CustomAdapters.dll
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\HackAtHome.CustomAdapters.pdb
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\android\bin\HackAtHome.CustomAdapters.apk
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\res\values\strings.xml
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\R.cs.flag
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\obj\Debug\uploadflags.txt
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.CustomAdapters\bin\Debug\HackAtHome.CustomAdapters.dll.mdb

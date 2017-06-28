@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.SAL\obj\Debug\__library_projects__\HackAtHome.Entities\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.SAL\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Client\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.SAL\obj\Debug\__library_projects__\PCLCrypto\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\HackAtHome.Entities\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Client\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\__library_projects__\PCLCrypto\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.SAL\obj\Debug\__library_projects__\HackAtHome.Entities.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.SAL\obj\Debug\__library_projects__\Microsoft.Azure.Mobile.Client.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.SAL\obj\Debug\__library_projects__\PCLCrypto.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

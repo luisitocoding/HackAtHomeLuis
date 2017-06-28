@@ -1,0 +1,12 @@
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.Entities\bin\Debug\HackAtHome.Entities.dll
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.Entities\bin\Debug\HackAtHome.Entities.pdb
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.Entities\bin\Debug\HackAtHome.Entities.apk
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.Entities\bin\Debug\HackAtHome.Entities-Signed.apk
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.Entities\obj\Debug\HackAtHome.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.Entities\obj\Debug\HackAtHome.Entities.dll
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.Entities\obj\Debug\HackAtHome.Entities.pdb
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.Entities\obj\Debug\android\bin\HackAtHome.Entities.apk
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.Entities\obj\Debug\res\values\strings.xml
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.Entities\obj\Debug\R.cs.flag
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.Entities\obj\Debug\uploadflags.txt
+C:\Users\Angel\documents\visual studio 2017\Projects\HackAtHome\HackAtHome.Entities\bin\Debug\HackAtHome.Entities.dll.mdb
